@@ -4,7 +4,7 @@ Xpub Bitcoin Receiving Addresses with SmartBit API
 https://www.smartbit.com.au/api
 
 
-##Parameters:
+## Parameters:
 
 
 <div layout="column" class="ng-scope">
