@@ -1,4 +1,4 @@
-# Xpub-Bitcoin
+# Xpub-Bitcoin SmartBit API 
 Xpub Bitcoin Receiving Addresses with SmartBit API 
 
 https://www.smartbit.com.au/api
