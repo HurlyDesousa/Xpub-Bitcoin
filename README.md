@@ -3,16 +3,17 @@ Xpub Bitcoin Receiving Addresses with SmartBit API
 
 https://www.smartbit.com.au/api
 
-
-
 The address call returns a specific address with associated transactions. The base call returns the latest 10 transactions from the address.
-Parameters:
+
+##Parameters:
 /{address}
 Required
 The address for which you are wanting to pull information for.
 Example: 1BvvRfz4XnxSWJ524TusetYKrtZnAbgV3r
 /{address},{address}
-Optional
+
+
+#####Optional
 The multi-address call returns a summary of a specific set of addresses. Addresses must be separated by a comma.
 Range: 1-200 addresses
 Example: 1BvvRfz4XnxSWJ524TusetYKrtZnAbgV3r,1BitcoinEaterAddressDontSendf59kuE
